@@ -1,1 +1,1 @@
-# buuparty.github.io
+# Buu Party
