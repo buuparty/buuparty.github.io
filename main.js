@@ -36,7 +36,7 @@ fetch(Api)
      	data.forEach((datas) => {
         const videoTag = `
         <div class="videoContainer" >
-          <a href="videos/index.html?id=${datas.id}">${datas.title}</a>
+          <a href="videos/?id=${datas.id}">${datas.title}</a>
         </div>`;
         test.innerHTML += videoTag;
      	});
