@@ -1,7 +1,7 @@
 const Api = "api/videos.json";
 const divTag = document.querySelector(".container");
 const titleTag = document.getElementsByTagName("title");
-const metaTag = document.getElementsByTagName("meta")[5];
+const metaTag = document.getElementsByTagName("meta")[3];
 
 
 fetch(Api)
